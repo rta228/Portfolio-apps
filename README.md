@@ -9,7 +9,7 @@ Each folder represents a different technology stack and type of application.
 
 - **Console – C++**  
   Console-based applications written in **C++**.  
-  Examples: algorithms, data structures, text-based games.
+  Examples: algorithms, objective oriented programming, data structures, text-based games.
 
 - **Desktop – Microsoft C#**  
   Desktop applications built with **C#** (WinForms / WPF).  
