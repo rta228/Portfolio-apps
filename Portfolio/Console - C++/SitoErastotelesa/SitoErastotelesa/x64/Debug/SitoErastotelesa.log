@@ -1,0 +1,3 @@
+﻿  SitoErastotelesa.cpp
+C:\Users\Core-9900K\Desktop\DominikWojtysiak - 2023.06\konsola\SitoErastotelesa\SitoErastotelesa\SitoErastotelesa.cpp(24,40): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  SitoErastotelesa.vcxproj -> C:\Users\Core-9900K\Desktop\DominikWojtysiak - 2023.06\konsola\SitoErastotelesa\x64\Debug\SitoErastotelesa.exe

@@ -1,0 +1,3 @@
+﻿  PESEL.cpp
+C:\Users\Core-9900K\Desktop\05212803054 - 2024.01\konsola\PESEL\PESEL\PESEL.cpp(43,30): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  PESEL.vcxproj -> C:\Users\Core-9900K\Desktop\05212803054 - 2024.01\konsola\PESEL\x64\Debug\PESEL.exe

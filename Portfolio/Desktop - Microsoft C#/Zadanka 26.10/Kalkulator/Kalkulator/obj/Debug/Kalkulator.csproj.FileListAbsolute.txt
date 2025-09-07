@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadanka 26.10\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+K:\4pT\Desktopowe\Zadanka 26.10\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+K:\4pT\Desktopowe\Zadanka 26.10\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+K:\4pT\Desktopowe\Zadanka 26.10\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadanka 26.10\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+K:\4pT\Desktopowe\Zadanka 26.10\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadanka 26.10\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadanka 26.10\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadanka 26.10\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+K:\4pT\Desktopowe\Zadanka 26.10\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb

@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadabka 07.12\Zadanka 1\Zadanka 1\bin\Debug\Zadanka 1.exe.config
+K:\4pT\Desktopowe\Zadabka 07.12\Zadanka 1\Zadanka 1\bin\Debug\Zadanka 1.exe
+K:\4pT\Desktopowe\Zadabka 07.12\Zadanka 1\Zadanka 1\bin\Debug\Zadanka 1.pdb
+K:\4pT\Desktopowe\Zadabka 07.12\Zadanka 1\Zadanka 1\obj\Debug\Zadanka 1.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadabka 07.12\Zadanka 1\Zadanka 1\obj\Debug\Zadanka_1.Form1.resources
+K:\4pT\Desktopowe\Zadabka 07.12\Zadanka 1\Zadanka 1\obj\Debug\Zadanka_1.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadabka 07.12\Zadanka 1\Zadanka 1\obj\Debug\Zadanka 1.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadabka 07.12\Zadanka 1\Zadanka 1\obj\Debug\Zadanka 1.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadabka 07.12\Zadanka 1\Zadanka 1\obj\Debug\Zadanka 1.exe
+K:\4pT\Desktopowe\Zadabka 07.12\Zadanka 1\Zadanka 1\obj\Debug\Zadanka 1.pdb

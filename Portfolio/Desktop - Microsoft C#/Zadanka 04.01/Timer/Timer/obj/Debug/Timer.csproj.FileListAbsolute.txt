@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadanka 04.01\Timer\Timer\bin\Debug\Timer.exe.config
+K:\4pT\Desktopowe\Zadanka 04.01\Timer\Timer\bin\Debug\Timer.exe
+K:\4pT\Desktopowe\Zadanka 04.01\Timer\Timer\bin\Debug\Timer.pdb
+K:\4pT\Desktopowe\Zadanka 04.01\Timer\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadanka 04.01\Timer\Timer\obj\Debug\Timer.Form1.resources
+K:\4pT\Desktopowe\Zadanka 04.01\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadanka 04.01\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadanka 04.01\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadanka 04.01\Timer\Timer\obj\Debug\Timer.exe
+K:\4pT\Desktopowe\Zadanka 04.01\Timer\Timer\obj\Debug\Timer.pdb

@@ -1,0 +1,5 @@
+﻿  przychodnia.cpp
+C:\Users\user\Documents\5pT\przychodnia\przychodnia\przychodnia.cpp(23,18): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\user\Documents\5pT\przychodnia\przychodnia\przychodnia.cpp(62,32): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\user\Documents\5pT\przychodnia\przychodnia\przychodnia.cpp(130,71): warning C4305: "argument": obcięcie z "double" do "float"
+  przychodnia.vcxproj -> C:\Users\user\Documents\5pT\przychodnia\x64\Debug\przychodnia.exe

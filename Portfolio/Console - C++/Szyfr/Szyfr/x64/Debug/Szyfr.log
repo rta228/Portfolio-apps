@@ -1,0 +1,6 @@
+﻿  Szyfr.cpp
+C:\Users\Core-9900K\Desktop\Przewidywania\2\konsola\Szyfr\Szyfr\Szyfr.cpp(17,28): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Core-9900K\Desktop\Przewidywania\2\konsola\Szyfr\Szyfr\Szyfr.cpp(18,22): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Core-9900K\Desktop\Przewidywania\2\konsola\Szyfr\Szyfr\Szyfr.cpp(48,28): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Core-9900K\Desktop\Przewidywania\2\konsola\Szyfr\Szyfr\Szyfr.cpp(49,22): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Szyfr.vcxproj -> C:\Users\Core-9900K\Desktop\Przewidywania\2\konsola\Szyfr\x64\Debug\Szyfr.exe

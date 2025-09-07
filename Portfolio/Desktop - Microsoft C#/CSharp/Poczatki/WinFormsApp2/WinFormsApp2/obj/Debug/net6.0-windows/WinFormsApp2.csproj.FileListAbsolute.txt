@@ -1,0 +1,16 @@
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+K:\4pT\Desktopowe\CSharp\Poczatki\WinFormsApp2\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll

@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadanka 09.11\Kalendarz\Kalendarz\bin\Debug\Kalendarz.exe.config
+K:\4pT\Desktopowe\Zadanka 09.11\Kalendarz\Kalendarz\bin\Debug\Kalendarz.exe
+K:\4pT\Desktopowe\Zadanka 09.11\Kalendarz\Kalendarz\bin\Debug\Kalendarz.pdb
+K:\4pT\Desktopowe\Zadanka 09.11\Kalendarz\Kalendarz\obj\Debug\Kalendarz.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadanka 09.11\Kalendarz\Kalendarz\obj\Debug\Kalendarz.Form1.resources
+K:\4pT\Desktopowe\Zadanka 09.11\Kalendarz\Kalendarz\obj\Debug\Kalendarz.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadanka 09.11\Kalendarz\Kalendarz\obj\Debug\Kalendarz.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadanka 09.11\Kalendarz\Kalendarz\obj\Debug\Kalendarz.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadanka 09.11\Kalendarz\Kalendarz\obj\Debug\Kalendarz.exe
+K:\4pT\Desktopowe\Zadanka 09.11\Kalendarz\Kalendarz\obj\Debug\Kalendarz.pdb

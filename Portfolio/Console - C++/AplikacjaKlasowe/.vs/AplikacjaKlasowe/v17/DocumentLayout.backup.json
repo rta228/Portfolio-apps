@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\5pT\\AplikacjaKlasowe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCED7876-C85B-4D68-967B-2483FFA3744C}|AplikacjaKlasowe\\AplikacjaKlasowe.vcxproj|C:\\Users\\user\\Documents\\5pT\\AplikacjaKlasowe\\AplikacjaKlasowe\\AplikacjaKlasowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCED7876-C85B-4D68-967B-2483FFA3744C}|AplikacjaKlasowe\\AplikacjaKlasowe.vcxproj|solutionrelative:AplikacjaKlasowe\\AplikacjaKlasowe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplikacjaKlasowe.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\5pT\\AplikacjaKlasowe\\AplikacjaKlasowe\\AplikacjaKlasowe.cpp",
+              "RelativeDocumentMoniker": "AplikacjaKlasowe\\AplikacjaKlasowe.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\5pT\\AplikacjaKlasowe\\AplikacjaKlasowe\\AplikacjaKlasowe.cpp",
+              "RelativeToolTip": "AplikacjaKlasowe\\AplikacjaKlasowe.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T10:04:30.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

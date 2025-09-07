@@ -1,0 +1,10 @@
+Konsola, 20
+Telefon, 60
+Mikrofala, 5
+Telewizor, 10
+Lodowka, 2
+Suszarka, 0
+Ladowarka, 2
+s, s
+sd, sd
+pralka, 2

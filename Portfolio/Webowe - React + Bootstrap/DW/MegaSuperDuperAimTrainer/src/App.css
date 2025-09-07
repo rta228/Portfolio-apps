@@ -1,0 +1,50 @@
+h1{
+    
+}
+
+.main-view-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #786478;
+    height: 100vh;
+    width: 100vw;
+}
+
+.title-wraper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 10vh;
+    width: 40vw;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+}
+
+.title{
+    font-size: 30px;
+    color: #503250;
+}
+
+.game-wraper{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.game{
+    width: 60vw;
+    background-color: #b4a0b4;
+    position: relative;
+}
+
+.target{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.target:hover{
+    background-color: #a0a0a0;
+}

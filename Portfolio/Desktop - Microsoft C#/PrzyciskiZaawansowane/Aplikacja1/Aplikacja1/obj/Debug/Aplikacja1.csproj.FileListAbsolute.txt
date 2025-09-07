@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\PrzyciskiZaawansowane\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe.config
+K:\4pT\Desktopowe\PrzyciskiZaawansowane\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.exe
+K:\4pT\Desktopowe\PrzyciskiZaawansowane\Aplikacja1\Aplikacja1\bin\Debug\Aplikacja1.pdb
+K:\4pT\Desktopowe\PrzyciskiZaawansowane\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\PrzyciskiZaawansowane\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Form1.resources
+K:\4pT\Desktopowe\PrzyciskiZaawansowane\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.Properties.Resources.resources
+K:\4pT\Desktopowe\PrzyciskiZaawansowane\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\PrzyciskiZaawansowane\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\PrzyciskiZaawansowane\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.exe
+K:\4pT\Desktopowe\PrzyciskiZaawansowane\Aplikacja1\Aplikacja1\obj\Debug\Aplikacja1.pdb

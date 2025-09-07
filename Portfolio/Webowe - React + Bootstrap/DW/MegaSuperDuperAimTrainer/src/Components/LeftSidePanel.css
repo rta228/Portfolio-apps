@@ -1,0 +1,23 @@
+.left-panel-wraper {
+    display: flex;
+    flex-direction: column;
+    width: 15vw;
+    height: 80vh;
+    background-color: #FFFFFF;
+    padding: 20px;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+.reset-button {
+    background-color: #503250;
+    border-radius: 5px;
+    width: 60%;
+    cursor: pointer;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+
+.game-over{
+    
+}

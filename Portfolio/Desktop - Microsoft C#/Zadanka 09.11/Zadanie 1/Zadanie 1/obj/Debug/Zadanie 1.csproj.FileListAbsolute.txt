@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadanka 09.11\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.exe.config
+K:\4pT\Desktopowe\Zadanka 09.11\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.exe
+K:\4pT\Desktopowe\Zadanka 09.11\Zadanie 1\Zadanie 1\bin\Debug\Zadanie 1.pdb
+K:\4pT\Desktopowe\Zadanka 09.11\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadanka 09.11\Zadanie 1\Zadanie 1\obj\Debug\Zadanie_1.Form1.resources
+K:\4pT\Desktopowe\Zadanka 09.11\Zadanie 1\Zadanie 1\obj\Debug\Zadanie_1.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadanka 09.11\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadanka 09.11\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadanka 09.11\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.exe
+K:\4pT\Desktopowe\Zadanka 09.11\Zadanie 1\Zadanie 1\obj\Debug\Zadanie 1.pdb

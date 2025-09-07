@@ -1,0 +1,4 @@
+﻿  Pliki.cpp
+C:\Users\Core-9900K\Desktop\Przewidywania\1\konsolowa\Pliki\Pliki\Pliki.cpp(22,28): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Core-9900K\Desktop\Przewidywania\1\konsolowa\Pliki\Pliki\Pliki.cpp(23,22): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Pliki.vcxproj -> C:\Users\Core-9900K\Desktop\Przewidywania\1\konsolowa\Pliki\x64\Debug\Pliki.exe

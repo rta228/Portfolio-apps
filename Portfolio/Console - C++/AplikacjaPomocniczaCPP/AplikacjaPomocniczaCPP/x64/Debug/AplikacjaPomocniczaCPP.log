@@ -1,0 +1,8 @@
+﻿  AplikacjaPomocniczaCPP.cpp
+C:\Users\Core-9900K\Desktop\PodEgzamin\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP.cpp(23,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Core-9900K\Desktop\PodEgzamin\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP.cpp(204,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Core-9900K\Desktop\PodEgzamin\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP.cpp(277,31): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Core-9900K\Desktop\PodEgzamin\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP.cpp(341,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Core-9900K\Desktop\PodEgzamin\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP.cpp(386,53): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Core-9900K\Desktop\PodEgzamin\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP\AplikacjaPomocniczaCPP.cpp(387,45): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+LINK : fatal error LNK1168: nie można otworzyć pliku C:\Users\Core-9900K\Desktop\PodEgzamin\AplikacjaPomocniczaCPP\x64\Debug\AplikacjaPomocniczaCPP.exe do zapisu

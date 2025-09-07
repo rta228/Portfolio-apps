@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadanka 12.10\DwaPola\DwaPola\bin\Debug\DwaPola.exe.config
+K:\4pT\Desktopowe\Zadanka 12.10\DwaPola\DwaPola\bin\Debug\DwaPola.exe
+K:\4pT\Desktopowe\Zadanka 12.10\DwaPola\DwaPola\bin\Debug\DwaPola.pdb
+K:\4pT\Desktopowe\Zadanka 12.10\DwaPola\DwaPola\obj\Debug\DwaPola.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadanka 12.10\DwaPola\DwaPola\obj\Debug\DwaPola.Form1.resources
+K:\4pT\Desktopowe\Zadanka 12.10\DwaPola\DwaPola\obj\Debug\DwaPola.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadanka 12.10\DwaPola\DwaPola\obj\Debug\DwaPola.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadanka 12.10\DwaPola\DwaPola\obj\Debug\DwaPola.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadanka 12.10\DwaPola\DwaPola\obj\Debug\DwaPola.exe
+K:\4pT\Desktopowe\Zadanka 12.10\DwaPola\DwaPola\obj\Debug\DwaPola.pdb

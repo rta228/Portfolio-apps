@@ -1,0 +1,29 @@
+.right-panel-wraper {
+    display: flex;
+    flex-direction: column;
+    width: 15vw;
+    height: 80vh;
+    background-color: #FFFFFF;
+    align-items: center;
+}
+
+.stats-wraper{
+    width: 12vw;
+    height: 10vh;
+    margin: 10px;
+    background-color: #786478;
+    border-radius: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.stat-title{
+    font-size: 20px;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
+.stat{
+    color: white;
+}

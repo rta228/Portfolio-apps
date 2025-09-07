@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadanka 12.10\Etykietka\Etykietka\bin\Debug\Etykietka.exe.config
+K:\4pT\Desktopowe\Zadanka 12.10\Etykietka\Etykietka\bin\Debug\Etykietka.exe
+K:\4pT\Desktopowe\Zadanka 12.10\Etykietka\Etykietka\bin\Debug\Etykietka.pdb
+K:\4pT\Desktopowe\Zadanka 12.10\Etykietka\Etykietka\obj\Debug\Etykietka.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadanka 12.10\Etykietka\Etykietka\obj\Debug\Etykietka.Form1.resources
+K:\4pT\Desktopowe\Zadanka 12.10\Etykietka\Etykietka\obj\Debug\Etykietka.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadanka 12.10\Etykietka\Etykietka\obj\Debug\Etykietka.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadanka 12.10\Etykietka\Etykietka\obj\Debug\Etykietka.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadanka 12.10\Etykietka\Etykietka\obj\Debug\Etykietka.exe
+K:\4pT\Desktopowe\Zadanka 12.10\Etykietka\Etykietka\obj\Debug\Etykietka.pdb

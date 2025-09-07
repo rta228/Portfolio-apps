@@ -1,0 +1,3 @@
+﻿  TicAndTac.cpp
+K:\4pT\Obiektowka.cpp\Kolko i krzyzyk\TicAndTac\TicAndTac\TicAndTac.cpp(120): warning C4715: "TicTacBoard::endGame”: niewszystkie ścieżki kodu zwracają wartość
+  TicAndTac.vcxproj -> K:\4pT\Obiektowka.cpp\Kolko i krzyzyk\TicAndTac\x64\Debug\TicAndTac.exe

@@ -1,0 +1,3 @@
+﻿  WindowsProject1.cpp
+K:\4pT\Desktopowe\WindowsProject1\WindowsProject1\WindowsProject1.cpp(54): warning C4715: "WinMain”: niewszystkie ścieżki kodu zwracają wartość
+  WindowsProject1.vcxproj -> K:\4pT\Desktopowe\WindowsProject1\x64\Debug\WindowsProject1.exe

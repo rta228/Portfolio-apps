@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadanka 26.10\Cezar\Cezar\bin\Debug\Cezar.exe.config
+K:\4pT\Desktopowe\Zadanka 26.10\Cezar\Cezar\bin\Debug\Cezar.exe
+K:\4pT\Desktopowe\Zadanka 26.10\Cezar\Cezar\bin\Debug\Cezar.pdb
+K:\4pT\Desktopowe\Zadanka 26.10\Cezar\Cezar\obj\Debug\Cezar.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadanka 26.10\Cezar\Cezar\obj\Debug\Cezar.Form1.resources
+K:\4pT\Desktopowe\Zadanka 26.10\Cezar\Cezar\obj\Debug\Cezar.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadanka 26.10\Cezar\Cezar\obj\Debug\Cezar.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadanka 26.10\Cezar\Cezar\obj\Debug\Cezar.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadanka 26.10\Cezar\Cezar\obj\Debug\Cezar.exe
+K:\4pT\Desktopowe\Zadanka 26.10\Cezar\Cezar\obj\Debug\Cezar.pdb

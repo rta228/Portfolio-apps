@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/TopFragment"
+                    android:title="@string/home_tab" />
+                <item
+                    android:id="@+id/TrainingFragment"
+                    android:title="@string/training_tab" />
+                <item
+                    android:id="@+id/DietFragment"
+                    android:title="@string/diet_tab" />
+                <item
+                    android:id="@+id/GymFragment"
+                    android:title="@string/gym_tab" />
+                <item
+                    android:id="@+id/StopwatchFragment"
+                    android:title="@string/stopwatch_tab" />
+        </group>
+</menu>

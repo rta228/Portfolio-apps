@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Arnold Physique Maker</string>
+    <string name="create_order">Napisz nam swoje pytanie</string>
+    <string name="create_order_title">Napisz nam swoje pytanie</string>
+    <string name="action_share">Udostępnij</string>
+    <string name="title_top">Fragment główny</string>
+    <string-array name="training">
+        <item>FullBodyWorkout</item>
+        <item>PushPullLeg</item>
+        <item>BroSplit</item>
+    </string-array>
+
+    <string-array name="diet">
+        <item>Sniadanie</item>
+        <item>Drugie Sniadanie</item>
+        <item>Przekaska</item>
+        <item>Obiad</item>
+        <item>Podwieczorek</item>
+        <item>Kolacja</item>
+    </string-array>
+    <string-array name="gym">
+        <item>Poznan - Avenida</item>
+        <item>Poznan - Pasaz Rondo</item>
+    </string-array>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="gps_find">Gdzie jestes?</string>
+    <string name="home_tab">Start</string>
+    <string name="training_tab">Treningi</string>
+    <string name="diet_tab">Dania</string>
+    <string name="gym_tab">Silownie</string>
+    <string name="stopwatch_tab">Timer</string>
+    <string name="order_name_hint">Proszę, napisz, jak masz na imię</string>
+    <string name="order_details_hint">Tutaj wpisz jakiej pomocy oczekujesz</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="home_text">Witaj na naszej stronie!
+    Pomozemy ci ze zbudowaniem twojej wymarzonej sylwetki!
+    Jesli masz jakies pytanie pisz smialo! Szybko ci odpiszemy!</string>
+    <string name="welcome_text">Arnolds Body Maker</string>
+    <string name="gym_image">Gym image</string><string name="navigation_drawer_open">Otworz</string>
+    <string name="navigation_drawer_close">Zamknij</string>
+</resources>

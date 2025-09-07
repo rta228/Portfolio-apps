@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadanka 12.10\PictureBoxy\PictureBoxy\bin\Debug\PictureBoxy.exe.config
+K:\4pT\Desktopowe\Zadanka 12.10\PictureBoxy\PictureBoxy\bin\Debug\PictureBoxy.exe
+K:\4pT\Desktopowe\Zadanka 12.10\PictureBoxy\PictureBoxy\bin\Debug\PictureBoxy.pdb
+K:\4pT\Desktopowe\Zadanka 12.10\PictureBoxy\PictureBoxy\obj\Debug\PictureBoxy.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadanka 12.10\PictureBoxy\PictureBoxy\obj\Debug\PictureBoxy.Form1.resources
+K:\4pT\Desktopowe\Zadanka 12.10\PictureBoxy\PictureBoxy\obj\Debug\PictureBoxy.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadanka 12.10\PictureBoxy\PictureBoxy\obj\Debug\PictureBoxy.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadanka 12.10\PictureBoxy\PictureBoxy\obj\Debug\PictureBoxy.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadanka 12.10\PictureBoxy\PictureBoxy\obj\Debug\PictureBoxy.exe
+K:\4pT\Desktopowe\Zadanka 12.10\PictureBoxy\PictureBoxy\obj\Debug\PictureBoxy.pdb

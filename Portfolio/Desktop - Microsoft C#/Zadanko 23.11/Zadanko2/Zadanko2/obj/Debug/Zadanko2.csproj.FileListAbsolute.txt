@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadanko 23.11\Zadanko2\Zadanko2\bin\Debug\Zadanko2.exe.config
+K:\4pT\Desktopowe\Zadanko 23.11\Zadanko2\Zadanko2\bin\Debug\Zadanko2.exe
+K:\4pT\Desktopowe\Zadanko 23.11\Zadanko2\Zadanko2\bin\Debug\Zadanko2.pdb
+K:\4pT\Desktopowe\Zadanko 23.11\Zadanko2\Zadanko2\obj\Debug\Zadanko2.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadanko 23.11\Zadanko2\Zadanko2\obj\Debug\Zadanko2.Form1.resources
+K:\4pT\Desktopowe\Zadanko 23.11\Zadanko2\Zadanko2\obj\Debug\Zadanko2.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadanko 23.11\Zadanko2\Zadanko2\obj\Debug\Zadanko2.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadanko 23.11\Zadanko2\Zadanko2\obj\Debug\Zadanko2.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadanko 23.11\Zadanko2\Zadanko2\obj\Debug\Zadanko2.exe
+K:\4pT\Desktopowe\Zadanko 23.11\Zadanko2\Zadanko2\obj\Debug\Zadanko2.pdb

@@ -1,0 +1,89 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+/*
+    Zasymuluj przy pomocy klasy dzialanie klawiatury komputera.
+    Program sprawdza jakkie litery zostaly wcisniete i wyswietla ich ilosc na ekranie.
+    Program konczy po wpisaniu zera
+    Opcje wpisoj dalej, pokaz ilosc
+    Sumowanie ilosci danych liter
+*/
+
+class Keyboard{
+private:
+    char ciagZnakow[101]
+    int iloscZnakow;
+
+public:
+    void setData(char pCiagZnakow, int pIloscZnakow){
+        pCiagZnakow=ciagZnakow;
+        pIloscZnakow=iloscZnakow;
+
+    int getData(){
+        int wybor;
+        cout<<"Co chcesz zrobic: ";
+        cin>>wybor;
+
+        switch (wybor){
+            case 1:
+                zliczenie(1);
+                jeszczeRaz();
+                break;
+            case2:
+                zliczenie(2);
+                break;
+            case 0:
+                return 0;
+                break;
+            default:
+                getData();
+                break
+        }
+    }
+
+    voidzliczenie(int wersja){
+        int zlicz[123] = {};
+        ciagZnakow[11] = {};
+        if(wersja==1){
+            cout<"Podaj ciag znakow do zsuomowania: "
+            cin>ciagZnakow;
+            int i=0;
+
+            while(ciagZnakow[i]!0){
+                    ++zlicz[ciagZnakow[i]];
+                    +i;
+            };
+        }
+
+        if(wersja=2){
+            for(int i=97;i<123;i+){
+                if(zicz[i]) cout<<(char)i<<" - "<<zlicz[i]<<endl;
+            };
+            for(int i=65;i<91;i++){
+                if(zlicz[]) cout<<(char)i<<" - "<<zlicz[i]<<endl;
+            };
+            jeszczeRaz();
+        }
+    }
+
+    void menu(){
+        cout<<"n_____________________________________"<<endl
+        cout<<" Klawiatura wybierz co chcesz zrobic \nChce wpisac litery - 1\nChce zakonczyc program - 0"<<endl;
+        getData();
+    }
+
+    void jeszczeRaz(){
+        cout<<"\n___________________________________________<<endl;
+        cout<<" Klawiatura wybierz co teraz chcesz zrobic \nChce wpisac inne litery - 1\nChce wypisac ilosc danych liter - 2\nChce zakonczyc program - 0"<<endl;
+        getData);
+    }
+};
+
+int main(){
+
+    Keyboard klawa;
+    klawa.menu()
+
+    return 0;
+}

@@ -1,0 +1,10 @@
+K:\4pT\Desktopowe\Zadanka 12.10\rozmiarObrazka\rozmiarObrazka\bin\Debug\rozmiarObrazka.exe.config
+K:\4pT\Desktopowe\Zadanka 12.10\rozmiarObrazka\rozmiarObrazka\bin\Debug\rozmiarObrazka.exe
+K:\4pT\Desktopowe\Zadanka 12.10\rozmiarObrazka\rozmiarObrazka\bin\Debug\rozmiarObrazka.pdb
+K:\4pT\Desktopowe\Zadanka 12.10\rozmiarObrazka\rozmiarObrazka\obj\Debug\rozmiarObrazka.csproj.AssemblyReference.cache
+K:\4pT\Desktopowe\Zadanka 12.10\rozmiarObrazka\rozmiarObrazka\obj\Debug\rozmiarObrazka.Form1.resources
+K:\4pT\Desktopowe\Zadanka 12.10\rozmiarObrazka\rozmiarObrazka\obj\Debug\rozmiarObrazka.Properties.Resources.resources
+K:\4pT\Desktopowe\Zadanka 12.10\rozmiarObrazka\rozmiarObrazka\obj\Debug\rozmiarObrazka.csproj.GenerateResource.cache
+K:\4pT\Desktopowe\Zadanka 12.10\rozmiarObrazka\rozmiarObrazka\obj\Debug\rozmiarObrazka.csproj.CoreCompileInputs.cache
+K:\4pT\Desktopowe\Zadanka 12.10\rozmiarObrazka\rozmiarObrazka\obj\Debug\rozmiarObrazka.exe
+K:\4pT\Desktopowe\Zadanka 12.10\rozmiarObrazka\rozmiarObrazka\obj\Debug\rozmiarObrazka.pdb

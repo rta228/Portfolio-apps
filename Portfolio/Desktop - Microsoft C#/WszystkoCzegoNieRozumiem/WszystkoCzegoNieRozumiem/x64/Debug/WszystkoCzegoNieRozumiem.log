@@ -1,0 +1,3 @@
+﻿  WszystkoCzegoNieRozumiem.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: nierozpoznany symbol zewnętrzny main przywołany w funkcji "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+K:\4pT\Desktopowe\WszystkoCzegoNieRozumiem\x64\Debug\WszystkoCzegoNieRozumiem.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
